@@ -12,10 +12,9 @@
 
 ## 🌱 요즘 하는 것
 
-- 🖥️ 동국대 GPU 서버실 관리 시스템의 백엔드와 인프라를 개발하고 운영합니다
-- 🔁 설치 없이 기기끼리 파일을 바로 주고받는 P2P 전송 웹앱 **Radius**를 만들고 있어요
-- 🗓️ 서버 없이 도는 수강신청 시간표 생성기 **짬**을 다시 만들고 있어요
-- 📚 알고리즘은 꾸준히 풉니다
+- 🖥️ **GPU 서버실 관리 시스템**: 서버 신청부터 계정 생성, 만료, 회수까지 자동화한 백엔드와 Kubernetes 인프라를 운영합니다
+- 🔁 **Radius**: 설치·가입 없이 기기끼리 파일을 직접 주고받는 P2P 웹앱을 만들고 있어요
+- 🗓️ **짬**: 동국대 수강신청 시간표 생성기를 서버 없이 도는 구조(Cloudflare + 정적 SPA)로 다시 만들고 있어요
 
 <br/>
 
@@ -57,17 +56,6 @@
 [![artrun-be](https://github-readme-stats.vercel.app/api/pin/?username=GDSC-DGU&repo=artrun-be&hide_border=true)](https://github.com/GDSC-DGU/artrun-be)
 
 </div>
-
-<details>
-<summary>조금 더 자세히</summary>
-
-<br/>
-
-- **Radius**: 설치·가입 없이 가까운 기기끼리 WebRTC로 파일을 직접 전송합니다. 수십 GB도 끊겨도 이어받아요.
-- **admin_be / admin_infra**: GPU 서버 신청부터 계정 생성, 만료 안내, 자원 회수까지의 수명 주기를 자동화한 시스템입니다. 백엔드(Spring Boot, Redis)와 Kubernetes 기반 인프라를 모두 맡았어요.
-- **artrun-be**: GPS 위에 그림을 그리는 AI 아트 러닝 코스 생성 서비스의 백엔드입니다 (GDSC DGU).
-
-</details>
 
 <br/>
 
