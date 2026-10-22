@@ -21,10 +21,38 @@
 
 ## Stack
 
-- **Backend**: Java, Spring Boot, Python, Go, MySQL, PostgreSQL, Redis
-- **Infra**: Kubernetes, Helm, Docker, GitHub Actions, Cloudflare, Linux
-- **Frontend**: TypeScript, React, Vite, Tailwind CSS
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Algorithm
+**Infra** &nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+## GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yoon6yo&show_icons=true&hide_border=true&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon6yo&layout=compact&hide_border=true" alt="top languages" />
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyume)](https://solved.ac/kyume)
+
+</div>
