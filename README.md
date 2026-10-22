@@ -9,15 +9,15 @@
 
 <br/>
 
-## 🌱 요즘 하는 것
+## 요즘 하는 것
 
-- 🖥️ **GPU 서버실 관리 시스템**: 서버 신청부터 계정 생성, 만료, 회수까지 자동화한 백엔드와 Kubernetes 인프라를 운영합니다
-- 🔁 **Radius**: 설치·가입 없이 기기끼리 파일을 직접 주고받는 P2P 웹앱을 만들고 있어요
-- 🗓️ **짬**: 동국대 수강신청 시간표 생성기를 서버 없이 도는 구조(Cloudflare + 정적 SPA)로 다시 만들고 있어요
+- **GPU 서버실 관리 시스템**: 서버 신청부터 계정 생성, 만료, 회수까지 자동화한 백엔드와 Kubernetes 인프라를 운영합니다
+- **Radius**: 설치·가입 없이 기기끼리 파일을 직접 주고받는 P2P 웹앱을 만들고 있어요
+- **짬**: 동국대 수강신청 시간표 생성기를 서버리스(Cloudflare R2, Workers + 정적 SPA)로 다시 만들고 있어요
 
 <br/>
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 **Backend** &nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -44,7 +44,7 @@
 
 <br/>
 
-## 📌 대표 프로젝트
+## 대표 프로젝트
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 <br/>
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
