@@ -11,9 +11,20 @@
 
 ## 요즘 하는 것
 
-- **GPU 서버실 관리 시스템**: 서버 신청부터 계정 생성, 만료, 회수까지 자동화한 백엔드와 Kubernetes 인프라를 운영합니다
-- **Radius**: 설치·가입 없이 기기끼리 파일을 직접 주고받는 P2P 웹앱을 만들고 있어요
-- **짬**: 동국대 수강신청 시간표 생성기를 서버리스(Cloudflare R2, Workers + 정적 SPA)로 다시 만들고 있어요
+**동국대 GPU 서버실 관리 시스템**<br/>
+서버 신청, 승인, Linux 계정 생성, 만료 알림, 자동 회수까지 사람이 하던 일을 자동화했습니다.
+백엔드와 Kubernetes 인프라를 둘 다 맡아 운영하고 있어요.<br/>
+`Spring Boot` `Redis` `MySQL` `Kubernetes` `Helm`
+
+**Radius**<br/>
+파일이 서버를 거치지 않고 브라우저끼리 WebRTC로 바로 오갑니다. 서버는 연결만 이어 주고,
+수십 GB도 중간에 끊기거나 새로고침해도 이어받아요.<br/>
+`TypeScript` `React` `WebRTC` `Cloudflare Workers`
+
+**짬**<br/>
+수강신청 시간표 조합기를 앱 서버와 DB 없이 다시 만들고 있어요. 크롤러가 3시간마다 R2에 데이터를 올리고,
+정적 사이트가 그걸 읽어 조합은 브라우저에서 계산합니다.<br/>
+`Cloudflare R2` `Workers` `GitHub Actions`
 
 <br/>
 
