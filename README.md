@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=170&section=header&text=yoon6yo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%C2%B7%20Infra%20%C2%B7%20Web&descSize=18&descAlignY=60" alt="yoon6yo" width="100%" />
 
-안녕하세요! 동국대학교에서 개발하는 윤입니다 👋<br/>
-서버를 만들고, 그 서버가 도는 인프라까지 직접 다룹니다.<br/>
-단순하게 굴러가고, 오래 가는 구조를 좋아해요.
+동국대학교 학생입니다.<br/>
+백엔드와 인프라를 주로 하고, 가끔 웹도 만듭니다.
 
 </div>
 
